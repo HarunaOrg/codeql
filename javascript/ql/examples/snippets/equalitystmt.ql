@@ -2,6 +2,7 @@
  * @id js/examples/equalitystmt
  * @name Equalities as expression statements
  * @description Finds `==` equality expressions that form an expression statement
+ * @kind problem
  * @tags comparison
  *       equality
  *       non-strict
