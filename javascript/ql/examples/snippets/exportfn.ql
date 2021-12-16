@@ -2,6 +2,7 @@
  * @id js/examples/exportfn
  * @name Default exports exporting a function
  * @description Finds 'default' exports that export a function
+ * @kind problem
  * @tags module
  *       export
  *       default export
