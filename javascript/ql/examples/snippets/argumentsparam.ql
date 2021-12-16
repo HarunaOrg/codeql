@@ -2,6 +2,7 @@
  * @id js/examples/argumentsparam
  * @name Parameters called 'arguments'
  * @description Finds parameters called 'arguments'
+ * @kind problem
  * @tags parameter
  *       arguments
  */
