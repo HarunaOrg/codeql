@@ -2,6 +2,7 @@
  * @id js/examples/yieldundefined
  * @name Empty yield
  * @description Finds yield expressions without an operand
+ * @kind problem
  * @tags generator
  *       yield
  *       ECMAScript 6
