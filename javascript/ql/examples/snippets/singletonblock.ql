@@ -2,6 +2,7 @@
  * @id js/examples/singletonblock
  * @name Singleton blocks
  * @description Finds block statements containing a single statement
+ * @kind problem
  * @tags block
  *       statement
  */
