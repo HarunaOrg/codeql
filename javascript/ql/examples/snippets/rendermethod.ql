@@ -2,6 +2,7 @@
  * @id js/examples/rendermethod
  * @name Methods named 'render'
  * @description Finds methods named 'render'
+ * @kind problem
  * @tags class
  *       method
  *       ECMAScript 6
