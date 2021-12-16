@@ -2,6 +2,7 @@
  * @id js/examples/classdefltctor
  * @name Classes with a default constructor
  * @description Finds classes that do not declare an explicit constructor
+ * @kind problem
  * @tags class
  *       constructor
  *       default constructor
