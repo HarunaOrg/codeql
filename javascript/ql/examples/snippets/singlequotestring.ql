@@ -2,6 +2,7 @@
  * @id js/examples/singlequotestring
  * @name Single-quoted string literals
  * @description Finds string literals using single quotes
+ * @kind problem
  * @tags string
  *       single quote
  *       quote
