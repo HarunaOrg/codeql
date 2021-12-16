@@ -2,6 +2,7 @@
  * @id js/examples/methodcall
  * @name Method calls
  * @description Finds calls of the form `this.isMounted(...)`
+ * @kind problem
  * @tags call
  *       method
  */
