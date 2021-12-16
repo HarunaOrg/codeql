@@ -2,6 +2,7 @@
  * @id js/examples/generator
  * @name Generator functions
  * @description Finds generator functions
+ * @kind problem
  * @tags generator
  *       function
  *       ECMAScript 6
