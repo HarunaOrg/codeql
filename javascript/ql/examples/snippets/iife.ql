@@ -2,6 +2,7 @@
  * @id js/examples/iife
  * @name Immediately invoked function expressions
  * @description Finds calls of the form `(function(...) { ... })(...)`
+ * @kind problem
  * @tags call
  *       function
  *       immediately invoked
