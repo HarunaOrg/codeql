@@ -2,6 +2,7 @@
  * @id js/examples/classname
  * @name Classes called 'File'
  * @description Finds classes called 'File'
+ * @kind problem
  * @tags class
  *       name
  *       ECMAScript 6
