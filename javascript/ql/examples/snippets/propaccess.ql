@@ -2,6 +2,7 @@
  * @id js/examples/propaccess
  * @name Property accesses
  * @description Finds property accesses of the form `x.innerHTML`
+ * @kind problem
  * @tags property
  *       field
  *       access
