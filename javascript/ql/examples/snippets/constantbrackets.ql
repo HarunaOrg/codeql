@@ -3,6 +3,7 @@
  * @name Constant property name in `[]` property access
  * @description Finds property accesses using the square bracket notation
  *              where the property name is a constant string
+ * @kind problem
  * @tags property access
  *       computed
  *       brackets
